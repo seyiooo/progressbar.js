@@ -1,0 +1,19 @@
+{
+  "name": "@seyioo/progressbar.js",
+  "version": "3.0.0",
+  "description": "An easy way to create terminal progress bar !",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyiooo/progressbar.js"
+  },
+  "author": "sey.#4485",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seyiooo/progressbar.js/issues"
+  },
+  "homepage": "https://github.com/seyiooo/progressbar.js#readme"
+}
