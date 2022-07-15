@@ -1,6 +1,6 @@
 {
   "name": "@seyioo/progressbar.js",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "An easy way to create terminal progress bar !",
   "main": "lib/index.js",
   "scripts": {
